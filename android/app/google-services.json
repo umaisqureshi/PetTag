@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "335385716232",
+    "project_id": "pettag-d02f6",
+    "storage_bucket": "pettag-d02f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335385716232:android:faa8ce08dd7c3d85d3d3bd",
+        "android_client_info": {
+          "package_name": "com.utechware.socialapppettag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335385716232-ofp0r8lo8pv231b1g50tn17u7po76i5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.socialapppettag",
+            "certificate_hash": "f22205df089afc726f797f575139971ad164a8cd"
+          }
+        },
+        {
+          "client_id": "335385716232-mvnc7kev7s4mhjhp60mtr6r8v6a955dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9cEK52BndulA1jGMwcj1ehTgLmNKwsLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335385716232-mvnc7kev7s4mhjhp60mtr6r8v6a955dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
